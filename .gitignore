@@ -1,0 +1,7 @@
+.idea
+plots/*
+__pycache__/
+homeassistant/__pycache__/
+homeassistant/cap_venv/
+other/__pycache__/
+logg.log
